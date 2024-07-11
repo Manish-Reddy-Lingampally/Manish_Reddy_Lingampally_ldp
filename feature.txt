@@ -1,4 +1,2 @@
-started
-first stage
-second
-Completed
+Started feature
+Second
